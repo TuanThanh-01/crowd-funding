@@ -22,16 +22,6 @@ const Hero = () => {
         >
           Add Project
         </button>
-
-        <button
-          type='button'
-          className='inline-block px-6 py-2.5 border border-[#FF6969]
-        font-medium text-xs leading-tight uppercase text-[#5F264A]
-        rounded-full shadow-md bg-transparent hover:bg-[#A84448]
-        hover:text-white'
-        >
-          Donate Projects
-        </button>
       </div>
 
       <div className='flex justify-center items-center mt-10'>
